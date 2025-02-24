@@ -1,0 +1,1 @@
+mkdir -p assets src/{api,components,contexts,hooks,screens/{Auth,Business,Reservation,Profile,Notifications},services,utils} 
